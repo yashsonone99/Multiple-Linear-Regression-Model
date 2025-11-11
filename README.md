@@ -27,8 +27,3 @@ It includes **data cleaning**, **exploratory data analysis (EDA)**, **model trai
 ✔ Deployment-ready Streamlit app  
 
 ---
-
-### 🚀 Deployment
-Run the Streamlit app locally using:
-```bash
-streamlit run app.py
